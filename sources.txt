@@ -1,0 +1,9 @@
+Transfer learning: http://www.cs.iit.edu/~agam/cs577/share/cnn3l21.pdf
+
+Inception and resiudal blocks: https://machinelearningmastery.com/how-to-implement-major-architecture-innovations-for-convolutional-neural-networks/
+
+Plot: https://machinelearningmastery.com/how-to-develop-a-cnn-from-scratch-for-cifar-10-photo-classification/
+
+Reference paper 1: https://ieeexplore-ieee-org.ezproxy.gl.iit.edu/stamp/stamp.jsp?tp=&arnumber=8993260
+
+Reference paper 2: http://cs.brown.edu/~tab/papers/middleware17.pdf
